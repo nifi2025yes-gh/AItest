@@ -1,0 +1,2 @@
+# AItest
+self curating gallery
